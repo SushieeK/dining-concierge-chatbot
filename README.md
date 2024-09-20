@@ -40,7 +40,7 @@ restaurants based on user preferences gathered through conversation.
 
 *Bot:* Great. Lastly, I need your email so I can send you my findings.
 
-*User:* vt2182@nyu.edu
+*User:* xyz@nyu.edu
 
 *Bot:* Thanks, I have placed your reservation.
 
